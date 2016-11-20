@@ -1,0 +1,11 @@
+{
+  "name": "RESTApiOnExpress",
+  "version": "0.0.0",
+  "description": "A simple REST API hosted on Express",
+  "main": "app.js",
+  "dependencies": {
+    "express":"3.4.4",
+    "jade":"*",
+    "stylus":"*"
+  }
+}
